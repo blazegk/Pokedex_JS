@@ -14,7 +14,7 @@ class Pokemon {
     specialAtk: null,
     specialDef: null,
     speed: null,
-    iv: null,
+    total: null,
   }
 
 
